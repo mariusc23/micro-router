@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Router for micro.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "engines": {
     "node": ">=4"
   },
