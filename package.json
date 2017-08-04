@@ -1,6 +1,6 @@
 {
   "name": "@mariusc23/micro-router",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Router for micro.",
   "main": "index.js",
   "files": [
